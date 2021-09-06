@@ -5,7 +5,7 @@ Upload multiple files using react as frontend and node express js as backend for
 
 1. Clone this project: open terminal and then execute command bellow:
 ```
-git clone https://github.com/cleitonsouza01/upload-file-using-react
+git clone https://subairvm.github.io/my-static-website/
 ```
 2. Enter in new folder created and install modules to backend:
 ```
